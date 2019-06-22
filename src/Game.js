@@ -179,5 +179,3 @@ function Square(props){
     return null;
   }
   export default Game;
-
-  //setInterval(<Tick/>, 1000);
